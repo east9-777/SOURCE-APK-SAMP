@@ -1,0 +1,7 @@
+{
+  "client_config": {
+    "version_code": 1,
+    "url_launcher": "http://192.168.0.114/apikayzen/update.apk",
+    "url_cache_files": "http://192.168.0.114/apikayzen/com.kayzenroleplay.game/generate_files.php"
+  }
+}

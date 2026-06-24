@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "title": "Bem-vindo ao ImperioRJ",
+      "description": "O servidor ImperioRJ est� oficialmente aberto! Entre agora e comece sua hist�ria no roleplay.",
+      "image": "http://192.168.0.114/apigua/files/images/news1.png"
+    },
+    {
+      "title": "Atualiza��o v1.1",
+      "description": "Nova HUD padr�o GTA, corre��es de bugs e melhorias de desempenho.",
+      "image": "http://192.168.0.114/apigua/files/images/news2.png"
+    },
+    {
+      "title": "Sistema de Organiza��es",
+      "description": "Agora � poss�vel criar e gerenciar organiza��es dentro do servidor.",
+      "image": "http://192.168.0.114/apigua/files/images/news3.png"
+    }
+  ]
+}
